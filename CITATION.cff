@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: >-
+  Please cite this software and the accompanying manuscript,
+  "The coevolution of sex-specific dominance and allelic diversity at
+  sexually antagonistic loci". For published analyses, cite the archived
+  software version used.
+type: software
+title: "SSdomSL: MATLAB simulations of sex-specific dominance and allelic diversity"
+authors:
+  - family-names: Siljestam
+    given-names: Mattias
+    orcid: "https://orcid.org/0000-0002-3720-4926"
+license: MIT
