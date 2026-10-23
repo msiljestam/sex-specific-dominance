@@ -1,4 +1,4 @@
-# SSdomSL
+# sex-specific-dominance
 
 MATLAB simulation of trait and regulator evolution under sex-specific selection, with autosomal or X-linked inheritance.
 

@@ -5,7 +5,7 @@ message: >-
   sexually antagonistic loci". For published analyses, cite the archived
   software version used.
 type: software
-title: "SSdomSL: MATLAB simulations of sex-specific dominance and allelic diversity"
+title: "MATLAB simulations of sex-specific dominance and allelic diversity"
 authors:
   - family-names: Siljestam
     given-names: Mattias
